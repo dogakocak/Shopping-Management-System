@@ -1,0 +1,8 @@
+1,A4 Tech Bloody V7MA Mouse,100.0,120.0
+2,Huawei FreeLace Pro,1250.0,1350.0
+3,Apple Iphone 13,23000.0,27000.0
+4,Monster Tulpar T7,15000.0,17000.0
+5,Apple Airpod 2,16000.0,20000.0
+6,Creative Surround Ses Sistemi,150.0,200.0
+7,Razer Blackwidow Klavye,26000.0,27000.0
+8,Intel i5 Comp,150.0,200.0
